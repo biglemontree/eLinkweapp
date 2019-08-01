@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>文件夹</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="文件管理1" transform="translate(-351.000000, -1250.000000)">
+            <g id="文件夹" transform="translate(351.000000, 1250.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" opacity="0.0261579241" x="0" y="0" width="56" height="56"></rect>
+                <path d="M47.7410714,13.5833333 C49.3239983,13.5833333 50.5,14.7370623 50.5,16.2994792 L50.5,45.5911458 C50.5,47.1886304 49.2702788,48.5 47.7410714,48.5 L8.45535714,48.5 C6.87341241,48.5 5.5,47.1525992 5.5,45.5911458 L5.5,13.2161458 C5.5,11.7058875 6.83608341,10.5 8.45535714,10.5 L19.4553571,10.5 C20.342247,10.5 20.8638479,10.7231331 21.4918914,11.3044177 L21.5149341,11.3263303 L23.7248538,13.4943954 C23.8080169,13.5759834 23.8269754,13.5833333 23.9732143,13.5833333 L47.7410714,13.5833333 Z" id="Shape" stroke="#249CFC" fill="#0F7BF8" fill-rule="nonzero"></path>
+                <path d="M29.625,39 L29.625,38 L43.375,38 L43.375,39 L29.625,39 Z M29.625,38 L43.375,38 L43.375,39 L29.625,39 L29.625,38 Z" id="Line-2" stroke="#FFFFFF" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

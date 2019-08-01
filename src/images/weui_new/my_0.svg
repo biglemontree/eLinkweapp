@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>我的-空</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ddnsto1" transform="translate(-552.000000, -1250.000000)">
+            <g id="我的-空" transform="translate(552.000000, 1250.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" opacity="0.0261579241" x="0" y="0" width="56" height="56"></rect>
+                <path d="M32.8713304,30.9658478 C37.1608785,28.7997072 40.1049949,24.3362398 40.1049949,19.180638 C40.1049949,11.9011672 34.2364005,6 26.9971105,6 C19.7578205,6 13.8892262,11.9011158 13.8892262,19.180638 C13.8892262,24.337114 16.8343142,28.8011985 21.1249874,30.9669277 C14.3660187,32.9555993 9.02750647,38.2883616 7,45.0631949 L7,50.3828952 C7,50.7236913 7.2747835,50.9999999 7.6136985,50.9999999 L46.3863015,51 C46.7252676,51 47,50.7236913 47,50.3828952 L47,45.063195 C44.9721355,38.287076 39.6320379,32.9536966 32.8713304,30.9658478 Z" id="Shape" stroke="#7F8389" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

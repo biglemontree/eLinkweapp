@@ -1,0 +1,64 @@
+{
+	"miniprogramRoot": "dist/",
+	"projectname": "eLinkWeapp",
+	"description": "koolshare weapp",
+	"appid": "wxeaec76756d319d82",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false
+	},
+	"compileType": "miniprogram",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"miniprogram": {
+			"current": 3,
+			"list": [
+				{
+					"id": -1,
+					"name": "pages/ddnsto/index",
+					"pathName": "pages/ddnsto/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/common/auth",
+					"pathName": "pages/common/auth",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/ee-dirs/index",
+					"pathName": "pages/ee-dirs/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/routers/index",
+					"pathName": "pages/routers/index",
+					"scene": null
+				}
+			]
+		}
+	}
+}
